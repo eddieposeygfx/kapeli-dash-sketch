@@ -1,0 +1,15 @@
+{
+    "name": "Sketch",
+    "package": "sketch",
+    "index": "./www.sketchshortcuts.com/index.html",
+    "selectors": {
+        "h3": "Guide",
+        "li.item": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "./iu.png",
+    "allowJS": true,
+    "ExternalURL": "https://www.sketchshortcuts.com"
+}
